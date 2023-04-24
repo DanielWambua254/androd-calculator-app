@@ -1,2 +1,2 @@
-# androd-calculator-app
+# android-calculator-app
 Introducing an android calculator app that is versatile and easy to use. Developed with the powerful and versatile Java programming language,it offers advanced features and a user-friendly interface for all your mathematical needs. Perfect for students, professionals and anyone looking for a reliable calculator on the go. Download now and experience the convenience, versatility and accuracy of this app.
